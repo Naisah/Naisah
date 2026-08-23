@@ -10,7 +10,7 @@
 ---
 
 ###  About Me
--  Learning: `Everything about Cloud Computing`
+-  Learning: `Everything about Cloud Computing and AI`
 -  Outside of coding: I love hojicha and do cafe-hopping !
 -  Reach me at: naisahaspiras24@gmail.com
 
