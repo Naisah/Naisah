@@ -6,10 +6,6 @@
   <img src="assets/banner-dark.svg" width="100%" alt="Naisah Aspiras banner"/>
 </picture>
 
-<img src="images/cat.jpg" width="180" style="border-radius: 50%; border: 3px solid #2563EB;" alt="cat"/>
-
-<h2 style="color:#FFFFFF;">It's Naisah Aspiras</h2>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Aspiring+Cloud+Engineer;Exploring+AI+Solutions+Architecture;professional+cat+lover+%26+part-time+developer+jk" alt="Typing SVG" />
 </a>
